@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/JuliaEFernandez/az-400/_apis/build/status/JuliaFernandezEY.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/JuliaEFernandez/az-400/_build/latest?definitionId=2&branchName=build-pipeline)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
